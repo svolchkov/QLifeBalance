@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="quotes">
+        <item>The purpose of life is to be at one with the universe.</item>
+        <item>A virtual presence within a real environment allows me to see the whole world.</item>
+        <item>I can smell the roses, feel the breeze and still finish this email before a light lunch.</item>
+        <item>I believe God is in charge, BUT in this classroom the fundamental truths about mathematics are not open for discussion.</item>
+        <item>Insanity is doing the same thing, over and over again, but expecting different results each semester.</item>
+        <item>No one is free, we are all slaves, chained to the wheel of life. We wake, we eat, we work, we sleep; then we die.</item>
+        <item>Slaves are generally expected to sing as well as to work. Are you singing?</item>
+    </string-array>
+</resources>
